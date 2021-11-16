@@ -1,0 +1,32 @@
+{
+  "level": "Graduate",
+  "topics": [
+    [
+      "Engineering",
+      "Aerospace Engineering",
+      "Guidance and Control Systems"
+    ],
+    [
+      "Mathematics",
+      "Probability and Statistics"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "af6157f9-2f07-e4ca-1bee-ebf2364152b4"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Stochastic Estimation and Control",
+  "course_description": "The major themes of this course are estimation and control of dynamic systems. Preliminary topics begin with reviews of probability and random variables. Next, classical and state-space descriptions of random processes and their propagation through linear systems are introduced, followed by frequency domain design of filters and compensators. From there, the Kalman filter is employed to estimate the states of dynamic systems. Concluding topics include conditions for stability of the filter equations.\n",
+  "department_numbers": [
+    "16"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "16.322",
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Problem Sets"
+  ],
+  "title": "Course Metadata"
+}
